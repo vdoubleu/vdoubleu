@@ -7,7 +7,7 @@ I'm constantly learning and improving. My interests frequently take me down vari
 
 📫 Here's some additional links:
  - [LinkedIn](https://www.linkedin.com/in/victor-yuefeng-wang/)
- - [Personal Website](https://vdoubleu.github.io/#/)
+ - [Personal Website](https://vdoubleu.vercel.app)
  - [Email](mailto:victorwang2001@gmail.com)
 
 
