@@ -12,3 +12,5 @@ I'm constantly learning and improving. My interests frequently take me down vari
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdoubleu&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
